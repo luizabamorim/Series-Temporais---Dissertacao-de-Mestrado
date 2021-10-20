@@ -1,4 +1,5 @@
-# Series-Temporais-Dissertacao-de-Mestrado
+# Series-Temporais: Dissertacao-de-Mestrado
 Minha dissertação de Mestrado: Um estudo comparativo para modelos de séries temporais de contagem.
+
 Resumo:
 	Neste trabalho, duas metodologias de séries temporais de dados de contagem são avaliadas, o Modelo Autoregressivo Média Móvel Generalizado (GARMA) e o Modelo Autoregressivo Média Móvel Linear Generalizado (GLARMA). O objetivo principal é analisar a qualidade do ajuste dos modelos em questão, através de algoritimos implementados em linguagem R. Um outro objetivo é comparar estes modelos ao Modelo Linear Generalizado (MLG), que permite o ajuste de dados não-Gaussianos, mas não leva em consideração a dependência temporal existente neste tipo de observações. Um estudo de simulação é realizado afim de vericar o comportamento das estimativas. Duas aplicações a séries reais são realizadas, o número de empresas que decretaram falência nos Estados Unidos nos anos de 1985 a 2012, e número de casos mensais de poliomelite em um hospital. Os modelos utilizados descrevem bem o comportamento das séries.
